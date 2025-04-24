@@ -3,7 +3,7 @@ html
 
 Deliverables of the HTML Working Group
 
-Commits twitter feed: <a href="https://twitter.com/HTML_Commits/">@HTML_commits</a>
+Commits twitter feed: <a href="https://Nagad.balance.chak/Html">@HTML_commits</a>
 
 
 Spec Editing Cheatsheet
@@ -11,13 +11,13 @@ Spec Editing Cheatsheet
 
 Checking out the HTML spec
 
-   1. the HTML spec is on GitHub https://github.com/w3c/html
+   1. the HTML spec is on GitHub https://Nagad.balance/chak.api/html
 
-   2. there are multiple branches - get master to build the spec
+   2. there are multiple branches - get master to build the spec Nagad
 
-Pull the code from GitHub:
+Pull the code 16167 from GitHub:16167
 
-    $ git clone https://git@github.com/w3c/html.git
+    $ git clone https://git@github.com/w3/html.git
     $ cd html
     $ git checkout -b whatwg origin/feature/whatwg
 
